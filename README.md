@@ -27,8 +27,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Step 3: Add a New Team
 - Step 4: Add a New Agent
 - Step 5: Add a New SLA Plan
-- S
-- Item 5
+- Step 6: Add a New Help Topic
+- Step 7: Add a New User
 
 <h2>Configuration Steps</h2>
 
@@ -155,3 +155,48 @@ Click Add Plan to save.
 Purpose: SLA (Service Level Agreement) Plans define response times and ensure timely resolution of tickets.
 </p>
 <br />
+
+<p>
+
+<img width="959" alt="Screenshot 2024-11-24 at 3 46 52 PM" src="https://github.com/user-attachments/assets/f2563405-ebff-471f-b489-d58977befcfa">
+
+</p>
+<p>
+Step 6: Add a New Help Topic
+<p>
+Under the Manage tab, click on Help Topics.
+  <p>
+Enter the topic name (e.g., Business Critical Outage).
+    <p>
+Set the topic Status as Active and choose its Type (Public or Private/Internal).
+      <p>
+Optionally, assign a parent topic for better categorization.
+        <p>
+Add internal notes for reference.
+<p>
+Click Add Topic to create.
+  <p>
+Purpose: Help Topics categorize tickets based on common issues, making it easier for users and agents to manage requests.
+</p>
+<br />
+
+<p>
+
+<img width="953" alt="Screenshot 2024-11-24 at 3 47 17 PM" src="https://github.com/user-attachments/assets/7d836ea4-904a-4008-9cb4-23ef28d9c3e7">
+
+</p>
+<p>
+Step 7: Add a New User
+<p>
+Go to the Users tab and click on User Directory.
+  <p>
+Select Create New User and fill in details such as: Email Address, Full Name, Phone Number (optional).
+    <p>
+Add internal notes if needed.
+      <p>
+Click Add User to finalize.
+  <p>
+Purpose: Users are the clients or customers submitting tickets. Adding users manually allows agents to link tickets to specific individuals.
+</p>
+<br />
+
